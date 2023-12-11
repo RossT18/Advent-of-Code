@@ -1,0 +1,16 @@
+{
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": {
+      "statusBar.background": "#146B3A",
+      "statusBar.foreground": "#ffffff",
+      "activityBar.foreground": "#ffffff",
+      "activityBar.activeBorder": "#EA4630",
+      "activityBarBadge.background": "#EA4630",
+      "scrollbarSlider.background": "#BB2528",
+      "scrollbarSlider.activeBackground": "#F8B229",
+      "scrollbarSlider.hoverBackground": "#F8B229"
+    }
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
